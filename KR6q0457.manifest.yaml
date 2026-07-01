@@ -1,0 +1,411 @@
+canonical_identifier: bkk:krp/KR6q0457/v1
+canonical_location: https://kanripo.org/bkk/KR6q0457/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 達變權禪師語錄
+  identifiers:
+    alt_id:
+    - J29nB248
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J29/J29nB248.xml
+    old_id: J29nB248
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0457_000.yaml, hash: 'sha256:7089ecfd832fc382c9eadfef74a26f9f2df2947a56ee8d34d3bb1c5ea7c1e84a'}
+  - {seq: 1, filename: KR6q0457_001.yaml, hash: 'sha256:7c063639cfeb5b4e36c9b795e051a61da48ec0b0770cd22a680304f94b8280d3'}
+  - {seq: 2, filename: KR6q0457_002.yaml, hash: 'sha256:d59b4496f3c39604b939dc80d8a46a31e82d7e7325a5ed5c35e5753032f3f751'}
+  - {seq: 3, filename: KR6q0457_003.yaml, hash: 'sha256:a5da2ce3699264d7d3c19d42fb47ab5f1a839e5d4ed5b1e7113cc65147fff02e'}
+  - {seq: 4, filename: KR6q0457_004.yaml, hash: 'sha256:5ef5b3229452437ea6b7e9e5b84011bf7d9356489d290306764f402482373b0e'}
+  - {seq: 5, filename: KR6q0457_005.yaml, hash: 'sha256:105c209cea4159b6273512436823700a8ab1a200b4e96d850767b4860f29a289'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0457_000.markers.yaml, hash: 'sha256:b24808246219dc02b6b2960ac2257e4785079b07ff96da3ce21de78a4b86af77'}
+  - {seq: 1, role: markers, filename: assets/KR6q0457_001.markers.yaml, hash: 'sha256:b5e93a452f7b84eaf3e75df6044040a19b627c73b9e419bb2eab447bc344fb80'}
+  - {seq: 2, role: markers, filename: assets/KR6q0457_002.markers.yaml, hash: 'sha256:ccd96cef71d6b825f277f50f81e9de69b60f06ab374df13eca33aa6a4cadcedf'}
+  - {seq: 3, role: markers, filename: assets/KR6q0457_003.markers.yaml, hash: 'sha256:1fbe1d5107eef49dad944983107d731bc1a2eff01b324a0a783a16ab83e4008c'}
+  - {seq: 4, role: markers, filename: assets/KR6q0457_004.markers.yaml, hash: 'sha256:9e4be10110e9d7658508ceef74a6039524218dfef2139aa586d214c31884d0a5'}
+  - {seq: 5, role: markers, filename: assets/KR6q0457_005.markers.yaml, hash: 'sha256:4687164b6895568dca903bcecf88099bb23054f72f7bc81a0a16a98c37aeeb11'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0457_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0457_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 6610
+  label: 達變權禪師語錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0457_J_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 語錄一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0457_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 6850
+  label: 達變權禪師語錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0457_J_002-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 語錄二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0457_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 6381
+  label: 達變權禪師語錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0457_J_003-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 語錄三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0457_J_004-juan-start
+    span:
+    - body
+    - 0
+    - 6191
+  label: 達變權禪師語錄卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0457_J_004-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-juan-start
+    span:
+    - body
+    - 0
+    - 5487
+  label: 達變權禪師語錄卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 垂問
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-2
+    span:
+    - body
+    - 687
+    - 687
+  label: 問畣機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-3
+    span:
+    - body
+    - 1793
+    - 1793
+  label: 偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-4
+    span:
+    - body
+    - 1794
+    - 1794
+  label: 送禪人行腳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-5
+    span:
+    - body
+    - 1895
+    - 1895
+  label: 和石頭回禪師艸菴歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-6
+    span:
+    - body
+    - 2124
+    - 2124
+  label: 靈峰山歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-7
+    span:
+    - body
+    - 2398
+    - 2398
+  label: 拄杖歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-8
+    span:
+    - body
+    - 2564
+    - 2564
+  label: 示禪人
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-9
+    span:
+    - body
+    - 2623
+    - 2623
+  label: 除夕
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-10
+    span:
+    - body
+    - 2681
+    - 2681
+  label: 和靈澄禪師山居詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-11
+    span:
+    - body
+    - 2801
+    - 2801
+  label: 賦得參差竹影上東窗
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-12
+    span:
+    - body
+    - 2866
+    - 2866
+  label: 和越五陳居士韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-13
+    span:
+    - body
+    - 2929
+    - 2929
+  label: 壽本師天童和尚五秩
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-14
+    span:
+    - body
+    - 2994
+    - 2994
+  label: 送友住剡谿
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-15
+    span:
+    - body
+    - 3055
+    - 3055
+  label: 擬梅送友住大梅寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-16
+    span:
+    - body
+    - 3119
+    - 3119
+  label: 大梅
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-17
+    span:
+    - body
+    - 3177
+    - 3177
+  label: 龍山
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-18
+    span:
+    - body
+    - 3235
+    - 3235
+  label: 亮公
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-19
+    span:
+    - body
+    - 3293
+    - 3293
+  label: 船子
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-20
+    span:
+    - body
+    - 3351
+    - 3351
+  label: 次宋學士靈峰留題韻呈本師和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-21
+    span:
+    - body
+    - 3421
+    - 3421
+  label: 臘月三鼓出坡口占
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-22
+    span:
+    - body
+    - 3469
+    - 3469
+  label: 山居
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-23
+    span:
+    - body
+    - 3527
+    - 3527
+  label: 荷上露珠
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-24
+    span:
+    - body
+    - 3559
+    - 3559
+  label: 破艸鞋
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-25
+    span:
+    - body
+    - 3590
+    - 3590
+  label: 臘月送亡僧值雨
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-26
+    span:
+    - body
+    - 3653
+    - 3653
+  label: 辭世偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0457_J_005-mulu-27
+    span:
+    - body
+    - 3748
+    - 3748
+  label: 佛事
+  type: mulu
+  level: 1
+hash: sha256:827160fb75d395a17731e3ab6517d30695eb33e0c5a7add74fa3403a0c640ce6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
